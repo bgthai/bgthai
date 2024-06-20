@@ -1,5 +1,4 @@
 # bgthai
-
 Thai translation of "Bhagavad Gita As It Is" online
 
 As devotees struggle with uploading this latest edition of Thai "Bhagavad Gita As It Is" text on their ISKCON websites this repo gives a quick and dirty public access via bgthai.github.io address.
