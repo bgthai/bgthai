@@ -1,4 +1,4 @@
-#bgthai
+# bgthai
 
 Thai translation of "Bhagavad Gita As It Is" online
 
